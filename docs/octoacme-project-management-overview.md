@@ -16,10 +16,10 @@ Applies to all cross-functional projects that deliver product features, services
 ## Core Roles
 - **Project Manager (PM)**: coordinates delivery, schedules, risk, communications.
 - **Product Manager (PdM)**: defines outcomes, prioritizes backlog, and measures success.
-- **Product Owner**: manages product backlog, gathers requirements, aligns delivery with business value.
+- **Product Owner (PO)**: manages product backlog, gathers requirements, aligns delivery with business value.
 - **Developers**: implement features, collaborate on design and testability.
-- **Quality Assurance Lead**: defines quality standards, establishes test plans, coordinates validation efforts.
-- **Business Analyst**: bridges requirements between business and technical teams.
+- **Quality Assurance Lead (QA Lead)**: defines quality standards, establishes test plans, coordinates validation efforts.
+- **Business Analyst (BA)**: bridges requirements between business and technical teams.
 - **Change Manager**: plans and supports organizational change required by projects.
 - **DevOps Specialist**: implements CI/CD, manages infrastructure, ensures reliable delivery.
 - **UX/UI Designer**: designs user experience and interface, advocates for user needs.

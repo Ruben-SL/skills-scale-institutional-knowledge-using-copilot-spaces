@@ -124,6 +124,6 @@ This checklist helps new team members quickly understand their role, responsibil
 - [ ] Role responsibilities and expectations clearly understood
 - [ ] Key touchpoints and collaboration patterns established
 
-**Date Completed:** _______________
+**Date Completed:** [Date]
 
-**Team Lead/PM Signature:** _______________
+**Team Lead/PM Signature:** [Signature]
